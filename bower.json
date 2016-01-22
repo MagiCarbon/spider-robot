@@ -1,0 +1,21 @@
+{
+  "name": "spider-robot",
+  "authors": [
+    "MC <MagiCarbon@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/MagiCarbon/spider-robot",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

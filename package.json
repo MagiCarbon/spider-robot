@@ -1,0 +1,21 @@
+{
+  "name": "spider-robot",
+  "version": "1.0.0",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MagiCarbon/spider-robot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MagiCarbon/spider-robot/issues"
+  },
+  "homepage": "https://github.com/MagiCarbon/spider-robot#readme",
+  "description": "for test."
+}
